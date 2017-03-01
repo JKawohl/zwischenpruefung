@@ -105,10 +105,34 @@ Das Ergebnis eines betrieblichen Leistungsprozesses ist folglich das Produkt
 
 | Aufbauorganisation                                                                                                                    | Ablauforganisation                                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------- |
-| Aufgaben werden an Mitarbeiter so verteilt, dass eine Erledigung aller Aufgaben möglich ist  <br> *Stellt den Betrieb in Bereitschaft dar*  | Arbeitsablauf wird strukturiert durch  * Tätigkeiten <br> * Zeit <br>  * Raum  <br> *stellt den Betrieb in Aktion dar*|  |
+| Aufgaben werden an Mitarbeiter so verteilt, dass eine Erledigung aller Aufgaben möglich ist  <br> *Stellt den Betrieb in Bereitschaft dar*  | Arbeitsablauf wird strukturiert durch <br> Tätigkeiten <br>  Zeit <br>   Raum  <br> *stellt den Betrieb in Aktion dar*|  |
 
 ## Leitungssysteme
+
+##Einliniensystem
+Jeder Stelleninhaber hat nur genau einen Vorgesetzten, dessen Weisungen er ausführen muss und dem er verantwortlich ist.
+
+| Vorteile                                                                                      | Nachteile                                                                                                                                                                                                             |
+|-------------------------------------------------------------------------------------------    |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   |
+| klare Kompetenzen, <br> Überschaubarkeit, <br> einfache Beziehungsstruktur <br>   Lückenlose Kontrolle     |  Schwerfälligkeit durch lange Dienstwege <br> Starre Kommunikation, da der Dienstweg eingehalten werden muss <br>  Belastung der oberen Leitungsebenen da die Anforderungen und Fachwissen und Verantwortung sehr hoch sind    |
+
+##Mehrliniensystem
+Jede Stelle erhölt von mehreren Vorgesetzten Weisungen, je nachdem zu welchem Aufgabenbereich die Aufgabe gehört.
+
+| Vorteile                                                                                                                                                                                  | Nachteile                                                                                                                             |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |-----------------------------------------------------------------------------------------------------------------------------------    |
+| Vorgesetzte sind Fachleute und über alles wesentliche informiert. <br> Erteilen nur dann Weisungen wenn ihr Fachgebiet betroffen ist. <br> Der schwerfällige Dienstweg wird verkürzt      | Undurchsichtige Kompetenzstruktur <br> Kontrolle ist schwerer <br> Kompetenzkonflikte <br> Überforderung der Mitarbeiter möglich      |
+
+
+
 ## Stabliniensystem
+
+Einzelnen Instanzen werden Stabsstellen zugeordnet. Diese Stellen sind mit Spezialisten besetzt. Sie entwickeln und planen eigene Projekte sind jedoch nicht Weisungsbefugt. 
+
+| Vorteile                                                                                                                                                                                                              | Nachteile                                                                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |
+| Die Vorzüge vom Ein und Mehr - Liniensystem bleiben erhalten <br> Abstimmung mit qualifizierten Stellen <br> Übersichtlich, kontrollierbar <br> Bessere Beratung der Instanzen <br> Bessere Entscheifungsgrundlagen   | Stabstellen neigen zur Enflussnahme auf Linienstellen, Kompetenzprobleme möglich <br> Liniestellen können Projekte der Stabsstellen blockieren wen die Anweisungen der Geschäftsleitung nicht eindeutig sind.     |
+
 
 ### Beispiele für Stabstellen in Unternehmen
 
@@ -121,9 +145,3 @@ Das Ergebnis eines betrieblichen Leistungsprozesses ist folglich das Produkt
 * Gleichstellungsbeauftragte als Stabsstelle des Personalwesens
 * Fachkraft für Arbeitssicherheit und Betriebsärzte
 
-##Einliniensystem
-Jeder Stelleninhaber hat nur genau einen Vorgesetzten, dessen Weisungen er ausführen muss und dem er verantwortlich ist.
-
-| Vorteile                                                                                      | Nachteile                                                                                                                                                                                                             |
-|-------------------------------------------------------------------------------------------    |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   |
-| klare Kompetenzen, <br> Überschaubarkeit, <br> einfache Beziehungsstruktur <br>   Lückenlose Kontrolle     |  Schwerfälligkeit durch lange Dienstwege <br> Starre Kommunikation, da der Dienstweg eingehalten werden muss <br>  Belastung der oberen Leitungsebenen da die Anforderungen und Fachwissen und Verantwortung sehr hoch sind    |

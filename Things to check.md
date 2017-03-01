@@ -4,7 +4,7 @@ Things to check:
 - [x] ABC Analyse
 - [x] Märkte (Käufermarkt etc.)
 - [x] Leistungsprozess 
-- [ ] Betrieborganisationsformen
+- [x] Betrieborganisationsformen
 - [x] Stablinienorganisation
 - [ ] Geschäftsprozessorientierung
 - [ ] Marketing , qualitativ, quantitativ

@@ -6,9 +6,9 @@ Things to check:
 - [x] Leistungsprozess 
 - [x] Betrieborganisationsformen
 - [x] Stablinienorganisation
-- [ ] Geschäftsprozessorientierung
-- [ ] Marketing , qualitativ, quantitativ
-- [ ] Betriebsrat
+- [x] Geschäftsprozessorientierung
+- [x] Marketing , qualitativ, quantitativ
+- [x] Betriebsrat
 
 #AWP
 - [ ] UMC Klassendiagramm

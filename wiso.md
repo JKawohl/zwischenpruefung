@@ -101,9 +101,20 @@ Der Weg bis zu einem fertigen Produkt, das daraufhin auf dem Markt abgesetzt bzw
 
 Das Ergebnis eines betrieblichen Leistungsprozesses ist folglich das Produkt
 
-#Betriebsorganisationsformen
+#Betriebsorganisation
 
-##Stabliniensystem
+| Betriebliche Organisation |
+|---    |---    |
+| **Aufbauorganisation**      | **Ablauforganisation**       |
+| Aufgaben werden an Mitarbeiter so verteilt, dass eine Erledigung aller Aufgaben möglich ist *Stellt den Betrieb in Bereitschaft dar*     | Arbeitsablauf wird strukturiert durch 
+* Tätigkeiten
+* Zeit 
+* Raum 
+*stellt den Betrieb in Aktion dar*|
+
+
+## Leitungssysteme
+## Stabliniensystem
 
 ### Beispiele für Stabstellen in Unternehmen
 
@@ -115,3 +126,12 @@ Das Ergebnis eines betrieblichen Leistungsprozesses ist folglich das Produkt
 * Unternehmensplanung als Stabsstelle der Geschäftsführung
 * Gleichstellungsbeauftragte als Stabsstelle des Personalwesens
 * Fachkraft für Arbeitssicherheit und Betriebsärzte
+
+##Einliniensystem
+Jeder Stelleninhaber hat nur genau einen Vorgesetzten, dessen Weisungen er ausführen muss und dem er verantwortlich ist.
+
+|Vorteile       | Nachteile       |
+|---    |---    |
+| * klare Kompetenzen 
+* Überschaubarkeit, einfache Beziehungsstruktur
+* Lückenlose Kontrolle      |       |

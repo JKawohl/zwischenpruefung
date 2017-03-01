@@ -1,5 +1,4 @@
 #ABC Analyse 
-
  Die ABC-Analyse hilft dabei, sich auf das Wesentliche zu fokussieren. Es gibt fünf offensichtliche Vorteile der ABC-Analyse.
 
 * Verbesserung von Planungsprozessen
@@ -8,9 +7,10 @@
 * Erhöhung des Gewinns
 * Motivation der Controlling-Mitarbeiter
 
+Die ABC-Analyse als betriebswirtschaftliches Mittel zur Planung und Entscheidungsfindung unterteilt Objekte in drei Klassen von A-, B- und C-Objekten.
 
-Die ABC-Analyse als betriebswirtschaftliches Mittel zur Planung und Entscheidungsfindung unterteilt Objekte in drei Klassen von A-, B- und C-Objekten. 
 Sie ist eine einfache Vorgehensweise zur Gewichtung von Objekten oder Prozessen und wird beispielsweise dazu verwendet, den Materialverbrauch nach Wertgrößen zu gruppieren. 
+5
 Der Aufbau besteht in der Regel aus zweidimensionalen Wertepaaren. Diese Wertepaare werden zunächst nach Größe sortiert, danach kumuliert in Klassen eingeordnet und häufig als Paretodiagramm dargestellt. 
 
 Anhand dieser Einordnung kann man sich ein grobes Bild der IST-Situation verschaffen und weitere Vorgehensweisen ableiten. Die ABC-Analyse ist weit verbreitet und findet Anwendung inner- und außerhalb der Betriebswirtschaft.
@@ -31,9 +31,11 @@ Durchschnittlicher Wertanteil an jährlichen Materialkosten für die drei Katego
 Wertanteil des
 Jahresverbrauchswerts	Klasse
 
-| 80 %|	A |
-|15 % |	B |
-|5 %  |	C |
+| Wertanteil des Jahresverbrauchswerts      | Klasse    |
+|---------------------------------------    |--------   |
+| 80 %                                      | A         |
+| 15 %                                      | B         |
+| 5 %                                       | C         |
 
 
 Mit der ABC-Analyse ist es möglich,

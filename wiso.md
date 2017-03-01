@@ -105,7 +105,7 @@ Das Ergebnis eines betrieblichen Leistungsprozesses ist folglich das Produkt
 
 | Aufbauorganisation                                                                                                                    | Ablauforganisation                                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------- |
-| Aufgaben werden an Mitarbeiter so verteilt, dass eine Erledigung aller Aufgaben möglich ist *Stellt den Betrieb in Bereitschaft dar*  | Arbeitsablauf wird strukturiert durch  * Tätigkeiten * Zeit  * Raum  *stellt den Betrieb in Aktion dar*|  |
+| Aufgaben werden an Mitarbeiter so verteilt, dass eine Erledigung aller Aufgaben möglich ist  <br> *Stellt den Betrieb in Bereitschaft dar*  | Arbeitsablauf wird strukturiert durch  * Tätigkeiten <br> * Zeit <br>  * Raum  <br> *stellt den Betrieb in Aktion dar*|  |
 
 ## Leitungssysteme
 ## Stabliniensystem
@@ -126,4 +126,4 @@ Jeder Stelleninhaber hat nur genau einen Vorgesetzten, dessen Weisungen er ausf�
 
 | Vorteile                                                                                      | Nachteile                                                                                                                                                                                                             |
 |-------------------------------------------------------------------------------------------    |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   |
-| klare Kompetenzen,  Überschaubarkeit,  einfache Beziehungsstruktur   Lückenlose Kontrolle     |  Schwerfälligkeit durch lange Dienstwege  Starre Kommunikation, da der Dienstweg eingehalten werden muss  Belastung der oberen Leitungsebenen da die Anforderungen und Fachwissen und Verantwortung sehr hoch sind    |
+| klare Kompetenzen, <br> Überschaubarkeit, <br> einfache Beziehungsstruktur <br>   Lückenlose Kontrolle     |  Schwerfälligkeit durch lange Dienstwege <br> Starre Kommunikation, da der Dienstweg eingehalten werden muss <br>  Belastung der oberen Leitungsebenen da die Anforderungen und Fachwissen und Verantwortung sehr hoch sind    |

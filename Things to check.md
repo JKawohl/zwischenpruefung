@@ -1,10 +1,11 @@
 Things to check:
 
-#Wiso 
-- [ ] ABC Analyse
-- [ ] Märkte (Käufermarkt etc.)
-- [ ] Leistungsprozess 
-- [ ] Stablinienorganisation
+#WiSo 
+- [x] ABC Analyse
+- [x] Märkte (Käufermarkt etc.)
+- [x] Leistungsprozess 
+- [ ] Betrieborganisationsformen
+- [x] Stablinienorganisation
 - [ ] Geschäftsprozessorientierung
 - [ ] Marketing , qualitativ, quantitativ
 - [ ] Betriebsrat

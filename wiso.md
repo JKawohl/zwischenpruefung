@@ -132,6 +132,4 @@ Jeder Stelleninhaber hat nur genau einen Vorgesetzten, dessen Weisungen er ausf�
 
 |Vorteile       | Nachteile       |
 |---    |---    |
-| * klare Kompetenzen 
-* Überschaubarkeit, einfache Beziehungsstruktur
-* Lückenlose Kontrolle      |       |
+| * klare Kompetenzen * Überschaubarkeit, einfache Beziehungsstruktur * Lückenlose Kontrolle      |  * Schwerfälligkeit durch lange Dienstwege *Starre Kommunikation, da der Dienstweg eingehalten werden muss * Belastung der oberen Leitungsebenen da die Anforderungen und Fachwissen und Verantwortung sehr hoch sind     |

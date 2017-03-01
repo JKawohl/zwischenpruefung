@@ -74,9 +74,9 @@ Als Verkäufermarkt wird eine Marktsituation bezeichnet, in der sich der Verkäu
 
 |Anbieter/Nachfrager|Viele   |Wenige   |Einer  |
 |---|---|---|---|
-|Viele   |Polypol (Vollkommene Konkurrenz)   |Angebotsoligopol   |Angebotsmonopol   |
-|Wenige   |Nachfrageoligopol   |Zweiseitiges Oligopol   |Beschränktes Angebotsmonopol   |
-|Einer   |Nachfragemonopol   |Beschränktes Nachfragemonopol   |Zweiseitiges Monopol   |
+|**Viele**   |Polypol (Vollkommene Konkurrenz)   |Angebotsoligopol   |Angebotsmonopol   |
+|**Wenige**   |Nachfrageoligopol   |Zweiseitiges Oligopol   |Beschränktes Angebotsmonopol   |
+|**Einer**   |Nachfragemonopol   |Beschränktes Nachfragemonopol   |Zweiseitiges Monopol   |
 
 
 

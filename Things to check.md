@@ -8,6 +8,7 @@ Things to check:
 - [ ] Geschäftsprozessorientierung
 - [ ] Marketing , qualitativ, quantitativ
 - [ ] Betriebsrat
+
 #AWP
 - [ ] UMC Klassendiagramm
 - [ ] Linker Debugger etc.
@@ -17,6 +18,7 @@ Things to check:
 - [ ] Top Down programmieren 
 - [ ] Skriptsprachen
 - [ ] Vererbung
+
 # ITS/VNS
 - [ ] Netzplantechnik
 - [ ] Drucker 

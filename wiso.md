@@ -131,7 +131,7 @@ Einzelnen Instanzen werden Stabsstellen zugeordnet. Diese Stellen sind mit Spezi
 
 | Vorteile                                                                                                                                                                                                              | Nachteile                                                                                                                                                                                                         |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |
-| Die Vorzüge vom Ein und Mehr - Liniensystem bleiben erhalten <br> Abstimmung mit qualifizierten Stellen <br> Übersichtlich, kontrollierbar <br> Bessere Beratung der Instanzen <br> Bessere Entscheifungsgrundlagen   | Stabstellen neigen zur Enflussnahme auf Linienstellen, Kompetenzprobleme möglich <br> Liniestellen können Projekte der Stabsstellen blockieren wen die Anweisungen der Geschäftsleitung nicht eindeutig sind.     |
+| Die Vorzüge vom Ein und Mehr - Liniensystem bleiben erhalten <br> Abstimmung mit qualifizierten Stellen <br> Übersichtlich, kontrollierbar <br> Bessere Beratung der Instanzen <br> Bessere Entscheifungsgrundlagen   | Stabstellen neigen zur Enflussnahme auf Linienstellen, Kompetenzprobleme möglich <br> Liniestellen können Projekte der Stabsstellen blockieren wen die Anweisungen der Geschäftsleitung nicht eindeutig sind.     |   
 
 
 ### Beispiele für Stabstellen in Unternehmen
@@ -144,4 +144,133 @@ Einzelnen Instanzen werden Stabsstellen zugeordnet. Diese Stellen sind mit Spezi
 * Unternehmensplanung als Stabsstelle der Geschäftsführung
 * Gleichstellungsbeauftragte als Stabsstelle des Personalwesens
 * Fachkraft für Arbeitssicherheit und Betriebsärzte
+
+#Geschäftsprozess 
+
+Was ist ein Geschäftsprozess?
+
+Ein Geschäftsprozess besteht aus einer zusammenhängenden abgeschlossenen Folge von Tätigkeiten, die zur Erfüllung einer betrieblichen Aufgabe notwendig sind. Die Aufgaben werden von organisatorischen Einheiten unter Nutzung der benötigten Produktionsfaktoren geleistet. Kunden im Sinne von Geschäftsprozessen können sowohl externe Nachfrager als auch interne Abteilungen sein.
+
+Beispiele von Geschäftsprozessen:
+
+Erstellung eines Angebots
+Beschaffung von Fremdleistungen
+Abwicklung des Zahlungsverkehrs
+Ziele der Geschäftsprozessorientierung:
+
+* Kundenzufriedenheit
+* Verkürzung der Reaktionszeiten
+* Senkung der Durchlaufzeiten
+* Kostensenkung
+* Qualitätsverbesserung von Produkten und Dienstleistungen
+
+## Geschäftsprozesse haben folgende Merkmale:
+* Geschäftsprozesse haben einen eindeutigen Anfang und Abschluss
+* Geschäftsprozesse sind zielgerichtet und sollen ein Ergebnis erbringen (z. B. Warenverkauf mit Gewinn)
+* Geschäftsprozesse bestehen aus einer Kette von betrieblichen Aktivitäten (= Teilprozessen)
+* Geschäftsprozesse werden von Aktionsträgern mithilfe von Sachmitteln, z. B. Computersystemen gesteuert
+* Geschäftsprozesse integrieren Kunden und Lieferanten in den Ablauf
+* Geschäftsprozesse verursachen durch den Verbrauch von Ressourcen Kosten
+
+Geschäftsprozesse haben immer eine direkte Schnittstelle zum Kunden:
+Startereignis eines Geschäftsprozesses ist das Feststellen eines Kundenbedarfs, Endereignis die Übergabe des Produkts gegen Entgelt. Ist der Kunde in seinen Bedürfnissen optimal zufrieden gestellt, kann man davon ausgehen, dass auch der Prozess optimal verlaufen ist.
+
+Hierbei ist zu beachten, dass auch innerhalb eines Unternehmens Abteilungen und Stellen untereinander als Kunden und Lieferanten auftreten können (z. B. tritt die Auftragsabwicklung als Kunde des Dienstleisters Rechnungsstellung auf). Im Vordergrund der Geschäftsprozessorientierung stehen:
+
+* Kundenorientierung: Ausgangspunkt sämtlicher Tätigkeiten und Aufgaben im Unternehmen ist der Kundennutzen, der von den individuellen Ansprüchen der Nachfrager an Qualität, Kosten, Bereitstellung usw. der Güter und Dienstleistungen bestimmt wird. Geschäftsprozesse sind an den Kundenwünschen auszurichten.
+* Prozessorientierung: Die funktionsorientierte Arbeitsteilung wird aufgehoben. Bisher getrennt wahrgenommene Aufgaben, Abläufe und Vorgänge in den Funktionsbereichen werden zu einem Prozess zusammengefasst und möglichst vollständig von einem Prozessteam ausgeführt.
+
+#Marketingziele
+Der Bereich Marketing stellt in der Unternehmensführung einen wichtigen Kernbereich dar. Der heutige, transparente Käufermarkt erfordert sehr umfassende Vorgehensweisen.
+
+Bevor es im Marketing des Unternehmens nennenswerte Erfolge geben kann, müssen zunächst die Unternehmensziele geklärt werden. Anschließend kann ein Marketingkonzept entwickelt werden. Dieses umfasst die Marketingziele, die Marketingstrategien, die operative Umsetzung der Strategien und die Erfolgskontrolle.
+
+Marketingziele leiten sich also auch aus den Unternehmenszielen ab und bestimmen den angestrebten Zustand, der durch den Marketing-Mix (Einsatz absatzpolitischer Instrumente) erreicht werden soll. Vorab erfolgt immer eine Analyse des IST-Zustandes (Wie möchte ein Unternehmen künftig wahrgenommen werden? Wie ist es positioniert?).
+
+###Quantitative Marketingziele sind:
+
+* Gewinnziele
+* Umsatzziele
+* Kostenziele
+* Marktanteilsziele (auch Marktführerschaft)
+* Wachstumsziele
+
+###Qualitative Marketingziele sind:
+
+* Image und Bekanntheitsgrad
+* Qualität
+* Corporate Identity
+* Kundenbindung
+* Zuverlässigkeit
+* Vertrauen
+
+#Betriebsrat 
+
+DIE AUFGABEN
+
+Was macht ein Betriebsrat?
+
+Der Betriebsrat ist die Interessenvertretung für alle ArbeitnehmerInnen nach dem Betriebsverfassungsgesetz. Darin sind die Rechte und Pflichten des Betriebsrates definiert. Dazu gehören:
+
+##Die Aufgaben im Betrieb
+
+* Vertretung der ArbeitnehmerInnen gegenüber dem Arbeitgeber
+* Überwachung der Einhaltung geltender Gesetze, Verordnungen, Unfallverhütungsvorschriften, Tarifverträgen und Betriebsvereinbarungen
+* Anregungen entgegennehmen und bearbeiten
+* Auskünfte über den Stand der Dinge im Betrieb erteilen
+* Beachtung der besonderen Lage der Schwerbehinderten und sonstiger Schutzbedürftiger im Betrieb
+* Förderung der Eingliederung von ArbeitnehmerInnen ausländischer Herkunft
+* Veranlassung zur Wahl der Jugend- und Auszubildendenvertretung
+
+##Das Recht auf Mitbestimmung
+
+Der Betriebsrat bestimmt in folgenden Fragen mit:
+
+* Arbeitszeit
+* betriebliche Lohngestaltung
+* Aufstellung allgemeiner Urlaubsgrundsätze und des Urlaubsplanes, technische Anlagen zur Überwachung von Leistung und Verhalten der Arbeitnehmer
+* Unfallverhütung
+* Gestaltung von betrieblichen Sozialeinrichtungen
+* Vergabe und Verwaltung betriebseigener Wohnungen sowie die Festlegung von Akkord- und Prämiensätzen
+* betriebliches Vorschlagswesen
+* bei Einschränkungen, Stilllegung und Verlagerung des Betriebes kann der Betriebsrat die Aufstellung eines Sozialplanes erzwingen, in dem die wirtschaftlichen Nachteile für die ArbeitnehmerInnen ausgeglichen oder abgemildert werden.
+* Fragen der Berufsbildung im Betrieb; Überwachung der Ausbildung
+* und vieles mehr
+* Eine Maßnahme, die der Mitbestimmung unterliegt, kann nur mit Zustimmung des Betriebsrats getroffen werden und wird im Streitfall in der Einigungsstelle entschieden.
+
+##Unterrichtungspflicht durch den Arbeitgeber
+
+In Betrieben mit mehr als 20 wahlberechtigten ArbeitnehmerInnen muss der Betriebsrat in folgenden Fällen unterrichtet werden:
+
+* Vor jeder Einstellung, Eingruppierung und Versetzung
+* bei betrieblichen Veränderungen, die die Arbeitnehmer betreffen
+* Verlegung des Betriebs
+* Einführung neuer Arbeitsmethoden
+* Einführung neuer Fertigungsverfahren
+* Das Anhörungsrecht
+
+Der Betriebsrat muss vor jeder Kündigung gehört werden. Geschieht dies nicht, ist eine Kündigung rechtsungültig.
+
+Einer ordentlichen Kündigung kann der Betriebsrat widersprechen, wenn
+
+* soziale Gesichtspunkte nicht ausreichend berücksichtigt wurden. D.h. wenn ein Arbeitnehmer an einer anderen Stelle im Betrieb weiterbeschäftigt werden kann
+* eine Weiterbeschäftigung nach einer Umschulung oder Fortbildung möglich ist
+* der/die ArbeitnehmerInnen an anderer Stelle im Betrieb weiterbeschäftigt werden kann
+* der Arbeitnehmer unter geänderten Arbeitsbedingungen weiter beschäftigt werden kann
+
+Der (begründete!) Widerspruch des Betriebsrats hat dann zur Folge, dass die Kündigung sozialwidrig ist und damit ohne Rechtskraft.
+
+Hat der Betriebsrat der Kündigung widersprochen und erhebt der betroffene Arbeitnehmer Kündigungsschutzklage beim Arbeitsgericht, so kann der Arbeitnehmer verlangen, dass er bis zum rechtskräftigen Abschluss seines Prozesses bei unveränderten Arbeitsbedingungen weiter beschäftigt wird.
+
+##Das Initiativrecht
+
+Im Rahmen der betrieblichen Mitbestimmung hat der Betriebsrat nicht nur das Recht, auf Maßnahmen des Arbeitgebers zu reagieren, sondern kann selbst Gestaltungsvorschläge machen und in den Entscheidungsprozess einbringen. Dieses Initiativrecht steht dem Betriebsrat in allen Bereichen zu, in denen das Gesetz ausdrücklich eine Einigung zwischen Arbeitgeber und Betriebsrat und bei Scheitern der Einigung die Entscheidung einer Einigungsstelle vorsieht. Schwerpunkt der Mitbestimmung bilden die sozialen Angelegenheiten. Der Betriebsrat kann das Initiativrecht beispielsweise in folgender Weise einsetzen:
+
+* Vorschlag von Betriebsferien
+* Veränderung der täglichen Arbeitszeit
+* Einführung einer Personalplanung
+* Vorschläge zur Beschäftigungssicherung
+* Änderung bestehender Regelungen. z.B. Der Betriebsrat kündigt eine bestehende Betriebsvereinbarung legt einen neuen Entwurf für eine Betriebsvereinbarung vor.
+* Erstmalige Einführung einer betrieblichen Regelung. z.B. Der Betriebsrat schlägt erstmalig eine Parkplatzordnung, ein Rauchverbot oder Grundsätze für ein betriebliches Vorschlagswesen vor.
+* Die Mitbestimmung des Betriebsrats kann zwar wirtschaftliche Entscheidungen des Arbeitgebers nicht verhindern. Sie gibt ihm lediglich die Möglichkeit, die sozialen Folgen solcher Entscheidungen zu beeinflussen oder zu mildern. Der Arbeitgeber muss sich auf eine Verhandlung und eine Einigung über die Vorschläge des Betriebsrats einlassen. Verweigert er dies, kann der Betriebsrat eine Entscheidung der Einigungsstelle herbeiführen.
 

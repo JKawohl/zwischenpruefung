@@ -6,17 +6,6 @@ Die Tatsache, dass die Eingabemenge für einen Algorithmus beliebig groß sein k
 
 Voraussetzungen für den Schreibtischtest sind also ein deterministischer und terminierender Programmablauf, die Kenntnis über plausible und sinnvolle Eingabeelemente, und die Kenntnis der zu den Eingabeelementen passenden Ausgabeelemente, um aus der jeweiligen Ausgabe auf die Richtigkeit schließen zu können. Das Ergebnis für die jeweilige Eingabe muss also bekannt sein.
 
-# UML Klassendiagramm
-
-Attribute:
-
-| Attribute   |
-|-------------|
-| +:public    |
-| -:private   |
-| #:protected |
-| ~:package   |
-| default: -  |
 
 # Programmbibliotheken 
 
@@ -203,25 +192,25 @@ Die Substantivmethode und die CRC-Methode können auch kombiniert verwendet werd
 
 Attribute sind die Eigenschaften der Klassen. Attribute sollten nur von der Klasse zu der sie gehören abhängig sein. Bei der Suche nach Attributen muss die Frage beantwortet werden: Was muss die Klasse über sich selbst wissen, damit sie arbei­ten kann? Die Adjektive in der Anforderungsdefinition sind Kandidaten für At­tribute.
 
- 
+| Attribute   |
+|-------------|
+| +:public    |
+| -:private   |
+| #:protected |
+| ~:package   |
+| default: -  |
 
 ##Operationen identifizieren
 
 Operationen sind die öffentlich aufrufbaren Funktionen einer Klasse. Operationen sind die Schnittstellen einer Klasse, über die sie die Dienste, die sie implementiert, allen anderen Klassen des Systems anbietet.
 
- 
-
 ##Assoziationen identifizieren
 
 Objekte kommunizieren über Assoziationen miteinander. Bei der Suche nach Assoziationen muss die Frage gestellt werden: Welche Objekte kommunizieren miteinander? In einem Projekt sind aber nur die Assoziationen zu modellieren, die zur Lösung des gestellten Problems benötigt werden. Die Verben in der An­forderungsdefinition geben Hinweise auf mögliche Assoziationen.
 
- 
-
 ##Vererbungsstrukturen identifizieren
 
 Bei der Suche nach Vererbungsstrukturen sucht man gemeinsame Eigenschaften von Klassen, die in einer Oberklasse zusammengefasst werden können. Die Unter­klasse muss alle geerbten Eigenschaften verwenden. Vererbung liegt dann vor, wenn eine Klasse eine Speziallfall einer anderen Klasse ist. Zwischen Oberklasse und Unterklasse besteht immer eine "ist-ein" Beziehung.
-
- 
 
 ##Style Guide
 
@@ -256,8 +245,10 @@ Bereits vorhandene Module können also in andere Programme integriert werden. In
 
 Heute sorgt man dafür, dass ein Modul seine Daten selbst verwaltet, und ein Zugriff, sei es schreibend oder lesend, von außen nur über Kontrollmechanismen des Moduls selbst erfolgen kann.
 Derartige Module nennt man auch Objekte.
-In der objektorientierten Programmierung (OOP) beschäftigen wir uns mit dieser Technik. Die OOP geht allerdings weit über die reine Zerlegung eines Problems in Teilprobleme hinaus. **Das Augenmerk ist mehr auf die Wiederverwendbarkeit eines Objektes in beliebiger Umgebung gerichtet.
-**
+In der objektorientierten Programmierung (OOP) beschäftigen wir uns mit dieser Technik. Die OOP geht allerdings weit über die reine Zerlegung eines Problems in Teilprobleme hinaus. **Das Augenmerk ist mehr auf die Wiederverwendbarkeit eines Objektes in beliebiger Umgebung gerichtet.**
 
 
+##Skriptsprachen:
+
+Skriptsprachen sind Programmiersprachen, die vor allem für kleine Programme gedacht sind und meist über einen Interpreter ausgeführt werden z.B. PHP im browser dann. Sie verzichten oft auf Sprachelemente, deren Nutzen erst bei der Bearbeitung komplexerer Aufgaben zum Tragen kommt. So wird etwa in Skriptsprachen auf den Deklarationszwang von Variablen meist verzichtet – vorteilhaft zur schnellen Erstellung von kleinen Programmen (siehe auch Prototyping), bei großen hingegen von Nachteil, etwa wegen der fehlenden Überprüfungsmöglichkeit von Tippfehlern in Variablennamen.
 

@@ -1,0 +1,4 @@
+To Dicuss
+
+-[ ] UML Klassendiagramm
+

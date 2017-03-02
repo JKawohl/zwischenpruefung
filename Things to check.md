@@ -9,20 +9,23 @@ Things to check:
 - [x] Geschäftsprozessorientierung
 - [x] Marketing , qualitativ, quantitativ
 - [x] Betriebsrat
+- [x] Werbeformen
+- [ ] Unternehmensformen
+- [ ] Produktionsfaktoren
+- [ ] Prozentrechnung
 
 #AWP
-- [ ] UMC Klassendiagramm
+- [x] UML Klassendiagramm
 - [ ] Linker Debugger etc.
-- [ ] CASE System documentation
-- [ ] Überdehnungstest 
-- [ ] Schreibtischtest
-- [ ] Top Down programmieren 
+- [x] Schreibtischtest
+- [ ] Top Down programmieren, Bottom up, 
 - [ ] Skriptsprachen
-- [ ] Vererbung
+- [x] Vererbung
+- [x] Methoden, Klassen, Instanzen, Attribute, Objekte
 
 # ITS/VNS
 - [ ] Netzplantechnik
-- [ ] Drucker 
-- [ ] Arbeitsgruppen, Domänen
-- [ ] UEFI
+- [x] Drucker 
+- [x] Arbeitsgruppen, Domänen
+- [x] UEFI
 

@@ -10,7 +10,6 @@
 Die ABC-Analyse als betriebswirtschaftliches Mittel zur Planung und Entscheidungsfindung unterteilt Objekte in drei Klassen von A-, B- und C-Objekten.
 
 Sie ist eine einfache Vorgehensweise zur Gewichtung von Objekten oder Prozessen und wird beispielsweise dazu verwendet, den Materialverbrauch nach Wertgrößen zu gruppieren. 
-5
 Der Aufbau besteht in der Regel aus zweidimensionalen Wertepaaren. Diese Wertepaare werden zunächst nach Größe sortiert, danach kumuliert in Klassen eingeordnet und häufig als Paretodiagramm dargestellt. 
 
 Anhand dieser Einordnung kann man sich ein grobes Bild der IST-Situation verschaffen und weitere Vorgehensweisen ableiten. Die ABC-Analyse ist weit verbreitet und findet Anwendung inner- und außerhalb der Betriebswirtschaft.
@@ -26,6 +25,7 @@ Klassifizierung:
 A-Teile: hoher Ergebnisbeitrag
 B-Teile: mittelmäßiger Ergebnisbeitrag
 C-Teile: geringer Ergebnisbeitrag
+
 Durchschnittlicher Wertanteil an jährlichen Materialkosten für die drei Kategorien:
 
 Wertanteil des
@@ -35,7 +35,7 @@ Jahresverbrauchswerts	Klasse
 |---------------------------------------    |--------   |
 | 80 %                                      | A         |
 | 15 %                                      | B         |
-| 5 %                                       | C         |
+| 5 %                                       | C         | 
 
 
 Mit der ABC-Analyse ist es möglich,
@@ -125,7 +125,17 @@ Jede Stelle erhölt von mehreren Vorgesetzten Weisungen, je nachdem zu welchem A
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |-----------------------------------------------------------------------------------------------------------------------------------    |
 | Vorgesetzte sind Fachleute und über alles wesentliche informiert. <br> Erteilen nur dann Weisungen wenn ihr Fachgebiet betroffen ist. <br> Der schwerfällige Dienstweg wird verkürzt      | Undurchsichtige Kompetenzstruktur <br> Kontrolle ist schwerer <br> Kompetenzkonflikte <br> Überforderung der Mitarbeiter möglich      |
 
+##Matrixorganisation
 
+Die Matrixorganisation gliedert das Unternehmen nach zwei sich überschneidenden Merkmalen:
+* Horizontal nach Verrichtungen 
+* Vertikal nach Objekten (Produkt oder Kundengruppen)
+
+| Vorteile                                                   | Nachteile                                                                            |
+|------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Kurze Kommunkationswege                                    | Schwierige Situation für die Geschäftsleitung im Falle einer notwendigen Schlichtung |
+| Teamarbeit wird gefördert                                  | Evtl. Kompetenz und Zuständigkeitsprobleme                                           |
+| Ergebnisse werden immer durch zwei Kernkompetenzen erzielt |                                                                                      |
 
 ## Stabliniensystem
 
@@ -206,6 +216,15 @@ Marketingziele leiten sich also auch aus den Unternehmenszielen ab und bestimmen
 * Zuverlässigkeit
 * Vertrauen
 
+## Kommunikationsinstrumente
+
+| Direktwerbung                      | Verkaufsförderung                        | Öffentlichkeitsarbeit |
+|------------------------------------|------------------------------------------|-----------------------|
+| Werbebriefe an ausgewählte Kunden  | z.B. Dauerleihgabe an potentielle Kunden | Tag der offenen Tür   |
+|                                    | Sonderpreisakion zur Markteinführung     |                       |
+| Gewinnspiel in Fachzeitschrift     | Prospekte als Beilage in Tageszeitungen  |                       |
+
+
 #Betriebsrat 
 
 DIE AUFGABEN
@@ -275,4 +294,24 @@ Im Rahmen der betrieblichen Mitbestimmung hat der Betriebsrat nicht nur das Rech
 * Änderung bestehender Regelungen. z.B. Der Betriebsrat kündigt eine bestehende Betriebsvereinbarung legt einen neuen Entwurf für eine Betriebsvereinbarung vor.
 * Erstmalige Einführung einer betrieblichen Regelung. z.B. Der Betriebsrat schlägt erstmalig eine Parkplatzordnung, ein Rauchverbot oder Grundsätze für ein betriebliches Vorschlagswesen vor.
 * Die Mitbestimmung des Betriebsrats kann zwar wirtschaftliche Entscheidungen des Arbeitgebers nicht verhindern. Sie gibt ihm lediglich die Möglichkeit, die sozialen Folgen solcher Entscheidungen zu beeinflussen oder zu mildern. Der Arbeitgeber muss sich auf eine Verhandlung und eine Einigung über die Vorschläge des Betriebsrats einlassen. Verweigert er dies, kann der Betriebsrat eine Entscheidung der Einigungsstelle herbeiführen.
+
+# Produktionsfaktoren
+
+
+#Unternehmensformen
+
+#Betriebsmittel 
+Als Betriebsmittel werden alle Gegenstände oder Rechte bezeichnet, die direkt an der Herstellung oder Fertigung von Produkten beteiligt sind, jedoch nicht die Gegenstände oder Rechte, die ins Endprodukt einfließen. Maschinen, Werkzeuge, Geräte und.
+
+Als Betriebsmittel werden alle Gegenstände oder Rechte bezeichnet, die direkt an der Herstellung oder Fertigung von Produkten beteiligt sind, jedoch nicht die Gegenstände oder Rechte, die ins Endprodukt einfließen. Betriebsmittel können in verschiedene Arten unterteilt werden.
+
+Maschinen, Werkzeuge, Geräte und sonstige Arbeitsmittel zählen als Betriebsmittel. Im Businessplan sollte der Existenzgründer detailliert aufschlüsseln, welche Betriebsmittel benötigt werden und welche für eine zukünftige Erweiterung des Unternehmens notwendig werden könnten. Die Betriebsmittel für die Produktion, sind die häufigste Art der Betriebsmittel. 
+
+Daneben gibt es noch die Betriebsmittel für die Elektrotechnik, wie Bauteile und Geräte einer elektrischen Anlage und für die Informatik, wie Festplatten, Arbeitsspeicher oder Drucker. Bei einer Existenzgründung sollte sich der zukünftige Unternehmer genau über die Details der Betriebsmittel informieren. Denn hierin liegt meist der größte finanzielle Aufwand der Existenzgründung.
+
+Die Betriebsmittel umfassen insbesondere auch Grundstücke und Gebäude, Transport- und Förderanlagen, Büro- und Geschäftsausstattung, Mess- und Prüfgeräte, sowie die gesamte Lagereinrichtung. Besonders zu beachten ist, dass auch Rechte, wie Patente als Betriebsmittel gelten. Gerade diese Kosten können zu erheblichen finanziellen Aufwendungen führen. Schwierig ist zumeist, dass die Betriebsmittel nicht direkt in das Produkt eingehen und somit keine verursachungsgerechte Kostenzurechnung erfolgen kann.
+
+
+
+
 

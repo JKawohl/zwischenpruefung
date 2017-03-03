@@ -295,10 +295,6 @@ Im Rahmen der betrieblichen Mitbestimmung hat der Betriebsrat nicht nur das Rech
 * Erstmalige Einführung einer betrieblichen Regelung. z.B. Der Betriebsrat schlägt erstmalig eine Parkplatzordnung, ein Rauchverbot oder Grundsätze für ein betriebliches Vorschlagswesen vor.
 * Die Mitbestimmung des Betriebsrats kann zwar wirtschaftliche Entscheidungen des Arbeitgebers nicht verhindern. Sie gibt ihm lediglich die Möglichkeit, die sozialen Folgen solcher Entscheidungen zu beeinflussen oder zu mildern. Der Arbeitgeber muss sich auf eine Verhandlung und eine Einigung über die Vorschläge des Betriebsrats einlassen. Verweigert er dies, kann der Betriebsrat eine Entscheidung der Einigungsstelle herbeiführen.
 
-# Produktionsfaktoren
-
-
-#Unternehmensformen
 
 #Betriebsmittel 
 Als Betriebsmittel werden alle Gegenstände oder Rechte bezeichnet, die direkt an der Herstellung oder Fertigung von Produkten beteiligt sind, jedoch nicht die Gegenstände oder Rechte, die ins Endprodukt einfließen. Maschinen, Werkzeuge, Geräte und.
@@ -311,6 +307,15 @@ Daneben gibt es noch die Betriebsmittel für die Elektrotechnik, wie Bauteile un
 
 Die Betriebsmittel umfassen insbesondere auch Grundstücke und Gebäude, Transport- und Förderanlagen, Büro- und Geschäftsausstattung, Mess- und Prüfgeräte, sowie die gesamte Lagereinrichtung. Besonders zu beachten ist, dass auch Rechte, wie Patente als Betriebsmittel gelten. Gerade diese Kosten können zu erheblichen finanziellen Aufwendungen führen. Schwierig ist zumeist, dass die Betriebsmittel nicht direkt in das Produkt eingehen und somit keine verursachungsgerechte Kostenzurechnung erfolgen kann.
 
+
+# Produktionsfaktoren
+| VWL       | Arbeit                               | Boden          | Kapital    |
+|-----------|--------------------------------------|----------------|------------|
+| Einkünfte | Lohn+Gehalt                          | Grundrente     | Zins       |
+|-----------|--------------------------------------|----------------|------------|
+| **BWL**   | dispositive -oder-ausführende Arbeit | Betriebsmittel | Werkstoffe |
+
+#Unternehmensformen
 
 
 

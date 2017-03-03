@@ -11,15 +11,15 @@ Things to check:
 - [x] Betriebsrat
 - [x] Werbeformen
 - [ ] Unternehmensformen
-- [ ] Produktionsfaktoren
+- [x] Produktionsfaktoren
 - [ ] Prozentrechnung
 
 #AWP
 - [x] UML Klassendiagramm
 - [ ] Linker Debugger etc.
 - [x] Schreibtischtest
-- [ ] Top Down programmieren, Bottom up, 
-- [ ] Skriptsprachen
+- [x] Top Down programmieren, Bottom up, 
+- [x] Skriptsprachen
 - [x] Vererbung
 - [x] Methoden, Klassen, Instanzen, Attribute, Objekte
 

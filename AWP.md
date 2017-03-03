@@ -252,3 +252,29 @@ In der objektorientierten Programmierung (OOP) beschäftigen wir uns mit dieser 
 
 Skriptsprachen sind Programmiersprachen, die vor allem für kleine Programme gedacht sind und meist über einen Interpreter ausgeführt werden z.B. PHP im browser dann. Sie verzichten oft auf Sprachelemente, deren Nutzen erst bei der Bearbeitung komplexerer Aufgaben zum Tragen kommt. So wird etwa in Skriptsprachen auf den Deklarationszwang von Variablen meist verzichtet – vorteilhaft zur schnellen Erstellung von kleinen Programmen (siehe auch Prototyping), bei großen hingegen von Nachteil, etwa wegen der fehlenden Überprüfungsmöglichkeit von Tippfehlern in Variablennamen.
 
+#Kurzerklärung der Begriffe Präprozessor, Compiler, Interpreter, Debugger und Linker
+
+##Präprozessor
+Die Aufgabe des Präprozessors besteht darin, Quellprogramme für die Kompilierung vorzubereiten. Diese Vorarbeit des Präprozessors besteht unter anderem in der Einbindung von Headerdateien, in der Entfernung von Kommentaren und von überflüssigen Leerräumen (Whitespace) aus dem Quellcode, sowie in der Auswertung und Umsetzung sonstiger, mit einer # Raute gekennzeichneter Präprozessor-Direktiven. 
+
+##Compiler
+Nach dem der Präprozessor den Quellcode der Programmdatei vorbereitet hat, wird der Compiler selbigen in einen von Maschinen lesbaren Code übersetzen und diesen Code im Zuge der Übersetzung optimieren. Vom Compiler wird bei erfolgreicher Kompilierung eine Objektdatei angelegt. Besteht ein Programm aus mehr als eine Programmdatei, wird der Compiler auch mehr als eine Objektdatei anlegen.
+Ein Compiler ist ein Übersetzungsprogramm, das in einer Programmiersprache abgefaßte Quellanweisungen in Zielanweisungen einer maschinenorientierten Programmiersprache umwandelt. Unter einem Übersetzungsprogramm(Sprachübersetzer) versteht man ein Programm, das Anweisungen in einer problemorientierten Sprache liest, analysiert und in bedeutungsgleiche Maschinenbefehle umwandelt. 
+
+##Linker
+Nach dem Compiler ist der Linker an der Reihe. Dieser führt mehrere Objektdateien zusammen (falls das Programm aus mehreren Quelldateien besteht) und verlinkt zu benötigten Laufzeitbibliotheken, insofern diese in den entsprechenden Headerdateien deklarierte Funktionen enthalten. Funktionen, die in der C-Standard-Bibliothek enthalten sind, werden hingegen nicht dynamisch verlinkt, sondern statisch gebunden. 
+
+Verlief die Kompilierung reibungslos und der Präprozessor, der Compiler und der Linker haben die jeweiligen Obliegenheiten verlässlich erledigt, sollte ein fertig gestelltes Programm mit der Extension "exe" vorliegen, zumindest insofern es sich um ein normales Computerprogramm handelt. Etwas anders verhält es sich mit einem Programm für einen Mikrocontroller, da das fertiggestellte Programm noch mit Hilfe einer speziellen Hardware (Brenner) zum Mikrocontroller übertragen werden muss, um es in dessen Speicher zu schreiben.
+
+##Interpreter
+
+Ein Interpreter ist ein Programm, das in eine EDV Anlage eingegebene Quellanweisungen in einer problemorientierten Programmsprache jeweils sofort übersetzt und ausführt. Im Unterschied zum Kompilieren entsteht kein vollständiges, aufbewahrungsfähiges Objektprogramm.
+
+##Debugger
+
+Ein Debugger ist ein Programm, das den Programmierer bei der Suche und dem Beheben von Programmfehlern, sogenannten Bugs, unterstützt. In einem Einzelschrittmodus wird jede Befehlszeile einzeln auf ihre Lauffähigkeit überprüft. Ist die Befehlszeile lauffähig wird die Nächste überprüft. Tritt jedoch ein Fehler auf, kann man Schritt für Schritt die Module, die die Befehlszeile  aufruft, auf ihre Lauffähigkeit überprüfen.
+
+#Entwicklungsumgebungen
+Integrierte Entwicklungsumgebungen
+
+Wesentlich besser als einzelne Compiler sind integrierte Entwicklungsumgebungen zur Programmierung von umfangreicheren Software-Anwendungen geeignet. In der Regel enthält so eine integrierte Entwicklungsumgebung (in der Kurzform IDE genannt) alle erforderlichen Tools zur Programmierung und Fehlersuche, wie Editor, Compiler, Linker, Debugger und Projektmanager. 
